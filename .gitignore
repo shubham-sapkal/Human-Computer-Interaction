@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+/assets/*
+/dataset/Test/*
+/dataset/train/*
+/dataset/Validation/*
